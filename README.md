@@ -25,5 +25,7 @@ it will trigger when 20% of element is visible
 it require css matching classses .
  used window.scrollY to detect vertical scroll position.
  Used  native scrollIntoView with smooth behavior
+https://github.com/Jenil05-web/desktop-tutorial.git-- Github repo Link
 
-Missing block property (should add block: 'start' for better control)
+https://github.com/Jenil05-web/Carbon-Crunch-Task-/commit/192a5cf6661b24911a4f199fc32f9472807f5ff9-- Logo of Carbon cruch used as assest.
+
