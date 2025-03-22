@@ -32,8 +32,9 @@ nav {
   transition: 0.5s;
   font-weight: bold;
   font-size: 22px;
-
-
+}
+#green {
+  color: #2e8b57;
 }
 
 .nav-links a {
@@ -42,15 +43,14 @@ nav {
   transition: 0.3s;
   font-weight: 700;
 }
-.nav-links  :hover{
+.nav-links :hover {
   color: green;
-
   text-decoration: underline;
 }
 
 .company {
   height: 100vh;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
     url("https://images.unsplash.com/photo-1469474968028-56623f02e42e")
       center/cover;
   display: flex;
@@ -64,12 +64,12 @@ nav {
 .company-content {
   max-width: 800px;
 }
- .logo img {
+.logo img {
   width: 100px;
   transition: 1s ease-in;
 }
-.logo img :hover{
-  width:100px;
+.logo img :hover {
+  width: 100px;
 }
 
 h1 {
@@ -105,20 +105,18 @@ h1 {
   background-color: #2e8b57;
   color: white;
   transition: 0.5s ease-out;
-
 }
-.btn-primary:hover{
-  color:white;
-  background-color:forestgreen;
+.btn-primary:hover {
+  color: white;
+  background-color:green;
 }
 
 .btn-secondary {
   border: 2px solid white;
   color: white;
-  transition: 0.5s ease-in-out ;
- 
+  transition: 0.5s ease-in-out;
 }
-.btn-secondary:hover{
+.btn-secondary:hover {
   background-color: whitesmoke;
   color: green;
 }
@@ -169,7 +167,6 @@ body {
 .scroll-section.active .card {
   transform: translateX(0);
 }
-
 
 .progress-bar {
   position: fixed;
