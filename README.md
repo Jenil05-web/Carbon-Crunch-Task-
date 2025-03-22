@@ -13,7 +13,7 @@ position: fixed ensures it stays visible during scrolling
 Z-index (z-index: 1000) guarantees it overlays other content
 A clean, professional landing page focused on environmental sustainability services with clear hierarchy and intuitive navigation. The design emphasizes action through contrasting CTA buttons while maintaining visual harmony with nature-themed styling.
 
-viewport meta tag for mobile scaling
+viewport meta tag for mobile scaling.
 
 Relative units (%, rem) for flexibility
 Mobile-first sizing (padding: 0 20px for side spacing)
