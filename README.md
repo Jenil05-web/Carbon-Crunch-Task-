@@ -1,3 +1,5 @@
+**https://jenil05-web.github.io/ live privew hosting link**
+
 I have used Technologies like -  HTML , CSS and Javascript to add styling and make a responsive webpage.
 Approach of the project:
 Created a fixed-position navigation bar at the top using <nav>
