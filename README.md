@@ -1,4 +1,5 @@
-**https://jenil05-web.github.io/ live privew hosting link**
+**https://jenil05-web.github.io/ live privew hosting link** 
+**in the file please click on BOOK Demo which is in top so it will lead you to another page .**
 
 I have used Technologies like -  HTML , CSS and Javascript to add styling and make a responsive webpage.
 Approach of the project:
